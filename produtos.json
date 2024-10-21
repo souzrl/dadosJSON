@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Calça jeans",
+        "tamanho": 42,
+        "preco": 139.99,
+        "imagem": "img/calça.jpeg"
+    },
+    {
+        "nome": "Regata",
+        "tamanho": "M",
+        "preco": 49.99,
+        "imagem": "img/regata.jpeg"
+    },
+    {
+        "nome": "Saia jeans",
+        "tamanho": 40,
+        "preco": 89.90,
+        "imagem": "img/saia.jpeg"
+    },
+    {
+        "nome": "Chinelo",
+        "tamanho": 37,
+        "preco": 19.90,
+        "imagem": "img/chinelo.jpeg"
+    },
+    {
+        "nome": "Camiseta polo",
+        "tamanho": "G",
+        "preco": 79.99,
+        "imagem": "img/camiseta.jpeg"
+    },
+    {
+        "nome": "Moletom",
+        "tamanho": "GG",
+        "preco": 149.99,
+        "imagem": "img/moletom.jpeg"
+    }
+]

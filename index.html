@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja de Roupas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        #produtos-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .produto {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 20px;
+            width: 250px;
+            margin: 10px;
+            text-align: center;
+        }
+
+        .produto h2 {
+            font-size: 1.5em;
+        }
+
+        .produto p {
+            margin: 10px 0;
+        }
+
+        .imagem-produto {
+            width: 100%;
+            height: auto;
+            max-width: 200px;
+            display: block;
+            margin: 10px auto;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Nossos Produtos</h1>
+    <div id="produtos-container"></div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
